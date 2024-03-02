@@ -1,3 +1,2 @@
-# MC
-Simple MC simulation of Ising model on triangular lattice.
-Further tomfoolery shall not be tolerated.
+# Monte Carlo simulation of the Ising model on a triangular lattice
+
